@@ -1,0 +1,7 @@
+/Users/jevenson/Projects/BoxViewTest/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jevenson/Projects/BoxViewTest/UITests/bin/Debug/BoxViewTest.UITests.dll.mdb
+/Users/jevenson/Projects/BoxViewTest/UITests/bin/Debug/BoxViewTest.UITests.dll
+/Users/jevenson/Projects/BoxViewTest/UITests/obj/Debug/BoxViewTest.UITests.dll
+/Users/jevenson/Projects/BoxViewTest/UITests/obj/Debug/BoxViewTest.UITests.dll.mdb
+/Users/jevenson/Projects/BoxViewTest/UITests/bin/Debug/nunit.framework.dll
+/Users/jevenson/Projects/BoxViewTest/UITests/bin/Debug/Xamarin.UITest.dll
